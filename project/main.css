@@ -1,0 +1,11 @@
+body{ 
+    background-image:url('./05kohli-bats.jpg');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    
+} 
+.main{
+    margin-top:12%;
+    margin-bottom:8%;
+}
